@@ -1,6 +1,6 @@
 -- mods/lagcheck/init.lua
 -- =================
--- See README.txt for licensing and other information.
+-- See README.md for licensing and other information.
 
 --ABM
 
@@ -106,6 +106,6 @@ minetest.register_chatcommand("lagcheck", {
 		
 		file:write(str)
 		file:close()
-		minetest.chat_send_player(name, "Lagcheck: File saved")
+		minetest.chat_send_player(name, "Lagcheck: File saved to world folder")
 end})
 
