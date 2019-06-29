@@ -1,1 +1,1 @@
-Minetest mod adding log system for consumption of every mod like the profiler does
+Minetest mod adding system to log the consumption of every mod
