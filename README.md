@@ -1,6 +1,10 @@
 # LagCheck
 [Minetest](https://www.minetest.net/ "Link to minetest.net") mod adding system to log the consumption of every mod
 
+## Manual
+#### For players
+Use chatcommand `/lagcheck` to save the log file to the world folder. You need the privilege: privs
+
 ## Version
 1.0
 
